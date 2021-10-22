@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* img hero top css */
+.background-hero {
+    background-image: url('../img/img-hero-top.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 625px;
+}
+
+.mc-200 {
+    margin-top: 200px;
+}
+
+.heading-1 {
+    font-size: 38px;
+    font-weight: 600;
+    color: white;
+}
+
+.c-c-orange {
+    color: #FFC329;
+}
+.width-p-hero {
+    width: 460px;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 5px;
+}
+
+.btn-cc-orange {
+    width: 150px;
+    height: 55px;
+    background-color: #FFC329;
+    color: white;
+}
+
+.btn-cc-orange:hover {
+    width: 150px;
+    height: 55px;
+    background-color: #FFC329;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-cc-outline-orange {
+    width: 150px;
+    height: 55px;
+    background-color: none;
+    color: #FFC329;
+    border: 1px solid #FFC329;
+    border-radius: 5px;
+}
+
+.btn-cc-outline-orange:hover {
+    width: 150px;
+    height: 55px;
+    background-color: none;
+    color: #FFC329;
+    border: 1px solid #FFC329;
+    border-radius: 5px;
+}
+
+.card-hero-content {
+    background-color: #140933;
+    box-shadow: 0px 1px 14px #180353;
+    color: white;
+    height: 100px;
+}
+
+.title-card-hero {
+   font-weight: 500;
+    font-size: 19px;
+    margin-bottom: 0;
+    margin-top: 20px;   
+}
+
+.text-card-hero {
+    font-size: 12px;
+}
+
+.card {
+    background-color: #140933;
+}
